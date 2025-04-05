@@ -1,0 +1,106 @@
+.top_links {
+    font-size: 20px;
+}
+
+/*!*.ctm {*!-*/
+/*!*    background-image: url(pexels-markusspiske-1089438.jpg);*!*/
+/*!*    background-attachment: fixed;*!*/
+/*!*    background-size: cover;*!*/
+/*!*}*!*/
+
+.body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.ctm {
+    background-image: url(pexels-markusspiske-1089438.jpg);
+    border-radius: 10px;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 1250px;
+    height: 900px;
+    position: relative;
+    padding-left: 15px;
+}
+
+#ctm {
+    width: 98vw;
+    height: 130vh;
+}
+
+.tagged {
+    font-size: 20px;
+    color: white;
+    background-color: #FF0000;
+}
+.pictures-of-me {
+    padding-top: 20px;
+    margin: auto;
+    display: block;
+    align-content: center;
+    justify-content: center;
+    height: 424px;
+    width: 625px;
+}
+.black-out {
+    color: white;
+}
+.contactlink {
+    color: #fff100;
+}
+
+.e-mail {
+    color: #fff100;
+}
+
+.vid-logo {
+    display: compact;
+    height: 150px;
+    width: 220px;
+}
+
+.feettablet {
+    background-color: lightskyblue;
+    color: white;
+    background-position: 50%;
+}
+
+.me-pipe {
+    color: red;
+    background-color: white;
+}
+
+.chainedout {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.invis {
+    color: white;
+}
+
+.egg_hunting {
+    margin-left: 3px;
+    height: 150px;
+    width: 999px;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    overflow: auto;
+}
+
+#drew {
+    color: white;
+}
+
+#joel {
+    color: white;
+}
+
+
+
+
